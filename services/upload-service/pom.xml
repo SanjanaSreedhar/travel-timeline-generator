@@ -7,7 +7,7 @@
 
     <!-- Parent = root project -->
     <parent>
-        <groupId>com.travel.timeline</groupId>
+        <groupId>com.sanjana</groupId>
         <artifactId>travel-timeline-generator</artifactId>
         <version>1.0.0-SNAPSHOT</version>
         <relativePath>../../pom.xml</relativePath>
